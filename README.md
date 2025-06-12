@@ -106,7 +106,8 @@ Finalizando se comprobara directamente metiendonos a Google Drive en donde se re
 
 ----------------------------------------------------
 
-Equipo de Proyecto
-Diego Calderon.
-Ricardo Duarte. 
-Raul Vergara.
+## Equipo del Proyecto
+
+- **Diego Calderon** 
+- **Ricardo Duarte**
+- **Raul Vergara** 
